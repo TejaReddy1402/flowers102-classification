@@ -1,4 +1,3 @@
-# flowers102-classification
 # Flower Classification using Deep Learning
 
 This project implements an image classification pipeline using PyTorch and the Oxford 102 Flower Dataset. It leverages pretrained convolutional neural networks for transfer learning to accurately classify 102 different species of flowers.
